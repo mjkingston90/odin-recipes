@@ -1,2 +1,4 @@
 This is my first official Odin Project Project on HTML.
-I've built the basic project, now I just need to learn how to save it on github.
+As well as testing the HTML, I also need to test how to successfully push updates on git.
+This updated message is my opportunity to do this. 
+
